@@ -30,6 +30,7 @@ prints the collected points and remaining moves after each move.
 #Play Example
 
 ##Mode 1:
+
 Welcome to the game!
 Enter ’s’ to start the game or ’q’ to quit:
 s
@@ -73,6 +74,7 @@ Clearing Board:
 You have collected 20 points and you have 14 moves left!
 
 ##Mode 2:
+
 Welcome to the game!
 Enter ’s’ to start the game or ’q’ to quit:
 s
