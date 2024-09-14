@@ -2,13 +2,13 @@
 This is a simplified candy crush game in Java. This game includes a grid of colored cells, where
 players match three cells of the same color to clear them from the board.
 
-##Game Loop
+## Game Loop
 • Check for and clear any matches.
 • If no moves are possible, reshuffle the board.
 • Accept player input for cell selection and direction of swap.
 • Process the swap and update the board.
 
-##Scoring 
+## Scoring 
 
 For mode 1, the player gains 15 scores per match.
 
@@ -21,15 +21,15 @@ strategy to the game, encouraging players to plan moves that cause cascades of
 matches.
 
 
-##Game Modes
+## Game Modes
 • Mode 1: Collect 200 points in 15 moves.
 • Mode 2: Collect 100 points for each color in 20 moves.
 The game ends when the move count reaches zero, and the program
 prints the collected points and remaining moves after each move.
 
-#Play Example
+# Play Example
 
-##Mode 1:
+## Mode 1:
 
 Welcome to the game!
 Enter ’s’ to start the game or ’q’ to quit:
@@ -73,7 +73,7 @@ Clearing Board:
 |B|R|B|G|B|
 You have collected 20 points and you have 14 moves left!
 
-##Mode 2:
+## Mode 2:
 
 Welcome to the game!
 Enter ’s’ to start the game or ’q’ to quit:
